@@ -1,5 +1,5 @@
 # About me
-- 🌱 I’m currently learning GitHub to manage my Odoo.sh
+- 🌱 I’m currently learning GitHub
 <!--
 **SOUDOSERVIS/SOUDOSERVIS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
